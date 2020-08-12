@@ -1,0 +1,19 @@
+{
+  "name": "ab-back-app",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Personal back-end app",
+  "author": "Alan Bouteiller <bouteiller.alan@gmail.com>",
+  "repository": "https://github.com/bouteillerAlan/ab-back",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
