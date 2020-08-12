@@ -391,3 +391,6 @@ docker-compose.yml
 .env*
 .env
 dist
+
+.next
+.next/*
